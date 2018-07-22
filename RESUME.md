@@ -13,10 +13,9 @@
  -java oop<br>
  -c++<br>
  -matlab<br>
- -html/css/javascript<br>
+ -html/css/javascript<br><br>
  
- 
- <li><b>Knowledge</b></li>
+<li><b>Knowledge</b></li>
  -digital image processing<br>
  -Data structure and Algorithm (sorting, link-list, stack, queue, BST ......)<br>
  -Concept of the operating system<br>
