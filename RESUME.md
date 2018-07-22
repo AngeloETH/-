@@ -7,5 +7,18 @@
  -National Taiwan University (NTU) 2015-2017
  Master degree, The department of Bio-industrial Mechatronics Engineering 
 
-
+ <li><b>Skill</b></li>
+ -git/github version control
+ -experienced in Ununtu server in command line interface
+ -java oop
+ -c++
+ -matlab
+ -html/css/javascript
+ 
+ 
+ <li><b>knowledge</b></li>
+ -digital image processing
+ -Data structure and Algorithm (sorting, link-list, stack, queue, BST ......)
+ -Concept of the operating system
+ -Programming numeric method
 </ul>
