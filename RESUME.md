@@ -17,8 +17,8 @@
  
  
  <li><b>knowledge</b></li>
- -digital image processing
- -Data structure and Algorithm (sorting, link-list, stack, queue, BST ......)
- -Concept of the operating system
- -Programming numeric method
+ -digital image processing<br>
+ -Data structure and Algorithm (sorting, link-list, stack, queue, BST ......)<br>
+ -Concept of the operating system<br>
+ -Programming numeric method<br>
 </ul>
