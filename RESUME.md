@@ -13,7 +13,8 @@
  -java oop<br>
  -c++<br>
  -matlab<br>
- -html/css/javascript<br><br>
+ -html/css/javascript<br>
+ -ajax, web-api experience<br><br>
  
 <li><b>Knowledge</b></li>
  -digital image processing<br>
