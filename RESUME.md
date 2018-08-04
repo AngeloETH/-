@@ -18,8 +18,8 @@
  -Ethereum smart contract, truffle<br><br>
  
  <li><b>Projects</b></li>
- -Software based scatter correction of digital mammography
- -Token creation and ICO process using truffle framework
+ -Software based scatter correction of digital mammography<br>
+ -Token creation and ICO process using truffle framework<br><br>
  
 <li><b>Knowledge</b></li>
  -digital image processing<br>
