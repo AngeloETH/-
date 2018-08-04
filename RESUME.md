@@ -14,7 +14,8 @@
  -c++<br>
  -matlab<br>
  -html/css/javascript<br>
- -ajax, web-api experience<br><br>
+ -ajax, web-api experience<br>
+ -Ethereum smart contract, truffle<br><br>
  
 <li><b>Knowledge</b></li>
  -digital image processing<br>
