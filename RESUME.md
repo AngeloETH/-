@@ -17,6 +17,10 @@
  -ajax, web-api experience<br>
  -Ethereum smart contract, truffle<br><br>
  
+ <li><b>Projects</b></li>
+ -Software based scatter correction of digital mammography
+ -Token creation and ICO process using truffle framework
+ 
 <li><b>Knowledge</b></li>
  -digital image processing<br>
  -Data structure and Algorithm (sorting, linkedlist, stack, queue, BST ......)<br>
